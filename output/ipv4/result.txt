@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 06:24:43,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-01-08 18:29:02,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -69,8 +69,8 @@
 ☘️新疆频道,#genre#
 
 ☘️山东频道,#genre#
-山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 ☘️山西频道,#genre#
 
@@ -92,7 +92,6 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 
 🎥咪咕直播,#genre#
 
