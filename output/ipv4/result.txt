@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 06:50:00,http://23.237.228.134/live5/CCTV3.m3u8
+2026-02-19 18:48:32,http://23.237.228.134/live5/CCTV3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
@@ -30,7 +30,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-生活时尚,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGv6JZQFaCoLKvAXAwqvyCMFxFz3MePmg1geZw74JSom3rn9fKh5ShDeNw3XMO0FTEzCpsHL8YjEsw2vYwlFudCDNPUm3lQvpd9ejH2L_6nSW4lsbr9JaMeZgL5zYqDLzQgO2MqKWkfpaxNPEEb7NiZlxF6wsiSEyD62S5y52WoJBVXAPKGfbgo92BM5R1V6XvUUyzdc85Ncy0hfc6l6IX2Q.m3u8?u=1757123819
 
 ☘️重庆频道,#genre#
 
